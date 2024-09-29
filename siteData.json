@@ -9,7 +9,7 @@
         "project-team": "Project team",
         "boon-hsuan": "Boon Hsuan",
         "zee": "Zee",
-        "johnny-doe": "Johnny Doe",
+        "chong-yi": "Chong Yi",
         "jean-doe": "Jean Doe",
         "james-doe": "James Doe"
       },
@@ -137,6 +137,11 @@
     },
     {
       "src": "team/boonhsuan.md",
+      "headings": {},
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/chongyi.md",
       "headings": {},
       "headingKeywords": {}
     },
