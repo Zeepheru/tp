@@ -40,7 +40,7 @@
       "src": "DeveloperGuide.md",
       "title": "Developer Guide",
       "headings": {
-        "ab-3-developer-guide": "AB-3 Developer Guide",
+        "tahub-contacts-developer-guide": "TAHub Contacts Developer Guide",
         "acknowledgements": "Acknowledgements",
         "setting-up-getting-started": "Setting up, getting started",
         "design": "Design",
@@ -55,11 +55,11 @@
         "proposed-data-archiving": "[Proposed] Data archiving",
         "documentation-logging-testing-configuration-dev-ops": "Documentation, logging, testing, configuration, dev-ops",
         "appendix-requirements": "Appendix: Requirements",
-        "product-scope": "Product scope",
-        "user-stories": "User stories",
-        "use-cases": "Use cases",
-        "non-functional-requirements": "Non-Functional Requirements",
-        "glossary": "Glossary",
+        "product-scope": " Product scope",
+        "user-stories": " User stories",
+        "use-cases": " Use cases",
+        "non-functional-requirements": " Non-Functional Requirements",
+        "glossary": " Glossary",
         "appendix-instructions-for-manual-testing": "Appendix: Instructions for manual testing",
         "launch-and-shutdown": "Launch and shutdown",
         "deleting-a-person": "Deleting a person",
@@ -107,7 +107,7 @@
       "src": "UserGuide.md",
       "title": "User Guide",
       "headings": {
-        "ab-3-user-guide": "AB-3 User Guide",
+        "tahub-contacts-user-guide": "TAHub Contacts User Guide",
         "quick-start": "Quick start",
         "features": "Features",
         "viewing-help-help": "Viewing help : help",
@@ -131,7 +131,9 @@
       "src": "index.md",
       "title": "",
       "headings": {
-        "addressbook-level-3": "AddressBook Level-3"
+        "tahub-contacts": "TAHub Contacts",
+        "want-to": "Want to",
+        "acknowledgements": " Acknowledgements"
       },
       "headingKeywords": {}
     },
